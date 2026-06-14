@@ -1,0 +1,15 @@
+C:\Users\phung\OneDrive\Documents\GitHub\AI-Powered-Cinema-Platform\src\Application\bin\Debug\net10.0\CinemaPlatform.Application.deps.json
+C:\Users\phung\OneDrive\Documents\GitHub\AI-Powered-Cinema-Platform\src\Application\bin\Debug\net10.0\CinemaPlatform.Application.dll
+C:\Users\phung\OneDrive\Documents\GitHub\AI-Powered-Cinema-Platform\src\Application\bin\Debug\net10.0\CinemaPlatform.Application.pdb
+C:\Users\phung\OneDrive\Documents\GitHub\AI-Powered-Cinema-Platform\src\Application\bin\Debug\net10.0\CinemaPlatform.Domain.dll
+C:\Users\phung\OneDrive\Documents\GitHub\AI-Powered-Cinema-Platform\src\Application\bin\Debug\net10.0\CinemaPlatform.Domain.pdb
+C:\Users\phung\OneDrive\Documents\GitHub\AI-Powered-Cinema-Platform\src\Application\obj\Debug\net10.0\CinemaPlatform.Application.csproj.AssemblyReference.cache
+C:\Users\phung\OneDrive\Documents\GitHub\AI-Powered-Cinema-Platform\src\Application\obj\Debug\net10.0\CinemaPlatform.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phung\OneDrive\Documents\GitHub\AI-Powered-Cinema-Platform\src\Application\obj\Debug\net10.0\CinemaPlatform.Application.AssemblyInfoInputs.cache
+C:\Users\phung\OneDrive\Documents\GitHub\AI-Powered-Cinema-Platform\src\Application\obj\Debug\net10.0\CinemaPlatform.Application.AssemblyInfo.cs
+C:\Users\phung\OneDrive\Documents\GitHub\AI-Powered-Cinema-Platform\src\Application\obj\Debug\net10.0\CinemaPlatform.Application.csproj.CoreCompileInputs.cache
+C:\Users\phung\OneDrive\Documents\GitHub\AI-Powered-Cinema-Platform\src\Application\obj\Debug\net10.0\CinemaPl.59682A4E.Up2Date
+C:\Users\phung\OneDrive\Documents\GitHub\AI-Powered-Cinema-Platform\src\Application\obj\Debug\net10.0\CinemaPlatform.Application.dll
+C:\Users\phung\OneDrive\Documents\GitHub\AI-Powered-Cinema-Platform\src\Application\obj\Debug\net10.0\refint\CinemaPlatform.Application.dll
+C:\Users\phung\OneDrive\Documents\GitHub\AI-Powered-Cinema-Platform\src\Application\obj\Debug\net10.0\CinemaPlatform.Application.pdb
+C:\Users\phung\OneDrive\Documents\GitHub\AI-Powered-Cinema-Platform\src\Application\obj\Debug\net10.0\ref\CinemaPlatform.Application.dll
