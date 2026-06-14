@@ -9,3 +9,4 @@ C:\Users\phung\OneDrive\Documents\GitHub\AI-Powered-Cinema-Platform\src\Domain\o
 C:\Users\phung\OneDrive\Documents\GitHub\AI-Powered-Cinema-Platform\src\Domain\obj\Debug\net10.0\refint\CinemaPlatform.Domain.dll
 C:\Users\phung\OneDrive\Documents\GitHub\AI-Powered-Cinema-Platform\src\Domain\obj\Debug\net10.0\CinemaPlatform.Domain.pdb
 C:\Users\phung\OneDrive\Documents\GitHub\AI-Powered-Cinema-Platform\src\Domain\obj\Debug\net10.0\ref\CinemaPlatform.Domain.dll
+C:\Users\phung\OneDrive\Documents\GitHub\AI-Powered-Cinema-Platform\src\Domain\obj\Debug\net10.0\CinemaPlatform.Domain.sourcelink.json

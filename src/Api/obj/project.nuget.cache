@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M8QMwb+r8zw=",
+  "dgSpecHash": "03QC8O0j6yA=",
   "success": true,
-  "projectFilePath": "c:\\Users\\phung\\OneDrive\\Documents\\GitHub\\AI-Powered-Cinema-Platform\\src\\Api\\CinemaPlatform.Api.csproj",
+  "projectFilePath": "C:\\Users\\phung\\OneDrive\\Documents\\GitHub\\AI-Powered-Cinema-Platform\\src\\Api\\CinemaPlatform.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\phung\\.nuget\\packages\\mediatr\\14.1.0\\mediatr.14.1.0.nupkg.sha512",
     "C:\\Users\\phung\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",

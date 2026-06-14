@@ -41,3 +41,4 @@ C:\Users\phung\OneDrive\Documents\GitHub\AI-Powered-Cinema-Platform\src\Api\bin\
 C:\Users\phung\OneDrive\Documents\GitHub\AI-Powered-Cinema-Platform\src\Api\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
 C:\Users\phung\OneDrive\Documents\GitHub\AI-Powered-Cinema-Platform\src\Api\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
 C:\Users\phung\OneDrive\Documents\GitHub\AI-Powered-Cinema-Platform\src\Api\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\phung\OneDrive\Documents\GitHub\AI-Powered-Cinema-Platform\src\Api\obj\Debug\net10.0\CinemaPlatform.Api.sourcelink.json

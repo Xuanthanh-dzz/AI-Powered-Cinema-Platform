@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\phung\\OneDrive\\Documents\\GitHub\\AI-Powered-Cinema-Platform\\src\\Domain\\CinemaPlatform.Domain.csproj": {}
+    "C:\\Users\\phung\\OneDrive\\Documents\\GitHub\\AI-Powered-Cinema-Platform\\src\\Domain\\CinemaPlatform.Domain.csproj": {}
   },
   "projects": {
-    "c:\\Users\\phung\\OneDrive\\Documents\\GitHub\\AI-Powered-Cinema-Platform\\src\\Domain\\CinemaPlatform.Domain.csproj": {
+    "C:\\Users\\phung\\OneDrive\\Documents\\GitHub\\AI-Powered-Cinema-Platform\\src\\Domain\\CinemaPlatform.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\phung\\OneDrive\\Documents\\GitHub\\AI-Powered-Cinema-Platform\\src\\Domain\\CinemaPlatform.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\phung\\OneDrive\\Documents\\GitHub\\AI-Powered-Cinema-Platform\\src\\Domain\\CinemaPlatform.Domain.csproj",
         "projectName": "CinemaPlatform.Domain",
-        "projectPath": "c:\\Users\\phung\\OneDrive\\Documents\\GitHub\\AI-Powered-Cinema-Platform\\src\\Domain\\CinemaPlatform.Domain.csproj",
+        "projectPath": "C:\\Users\\phung\\OneDrive\\Documents\\GitHub\\AI-Powered-Cinema-Platform\\src\\Domain\\CinemaPlatform.Domain.csproj",
         "packagesPath": "C:\\Users\\phung\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\phung\\OneDrive\\Documents\\GitHub\\AI-Powered-Cinema-Platform\\src\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\phung\\OneDrive\\Documents\\GitHub\\AI-Powered-Cinema-Platform\\src\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\phung\\AppData\\Roaming\\NuGet\\NuGet.Config"

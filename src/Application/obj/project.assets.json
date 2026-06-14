@@ -418,8 +418,8 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "c:\\Users\\phung\\OneDrive\\Documents\\GitHub\\AI-Powered-Cinema-Platform\\src\\Domain\\CinemaPlatform.Domain.csproj": {
-              "projectPath": "c:\\Users\\phung\\OneDrive\\Documents\\GitHub\\AI-Powered-Cinema-Platform\\src\\Domain\\CinemaPlatform.Domain.csproj"
+            "C:\\Users\\phung\\OneDrive\\Documents\\GitHub\\AI-Powered-Cinema-Platform\\src\\Domain\\CinemaPlatform.Domain.csproj": {
+              "projectPath": "C:\\Users\\phung\\OneDrive\\Documents\\GitHub\\AI-Powered-Cinema-Platform\\src\\Domain\\CinemaPlatform.Domain.csproj"
             }
           }
         }

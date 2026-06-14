@@ -13,3 +13,4 @@ C:\Users\phung\OneDrive\Documents\GitHub\AI-Powered-Cinema-Platform\src\Applicat
 C:\Users\phung\OneDrive\Documents\GitHub\AI-Powered-Cinema-Platform\src\Application\obj\Debug\net10.0\refint\CinemaPlatform.Application.dll
 C:\Users\phung\OneDrive\Documents\GitHub\AI-Powered-Cinema-Platform\src\Application\obj\Debug\net10.0\CinemaPlatform.Application.pdb
 C:\Users\phung\OneDrive\Documents\GitHub\AI-Powered-Cinema-Platform\src\Application\obj\Debug\net10.0\ref\CinemaPlatform.Application.dll
+C:\Users\phung\OneDrive\Documents\GitHub\AI-Powered-Cinema-Platform\src\Application\obj\Debug\net10.0\CinemaPlatform.Application.sourcelink.json
