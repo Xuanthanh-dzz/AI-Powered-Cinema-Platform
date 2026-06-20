@@ -1,5 +1,5 @@
 using cinemaPlatform.domain.Entities;
-using cinemaPlatform.domain.interfaces;
+using cinemaPlatform.domain.Interfaces;
 using MediatR;
 
 namespace cinemaPlatform.Application.Movies.Commands.CreateMovie;
