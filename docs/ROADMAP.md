@@ -54,7 +54,7 @@ Viết nháp (không công khai) về 2–3 lỗi nặng nhất từng gặp t�
 
 ### Việc 4 — Technical Setup
 
-- Docker + WSL2, tối ưu .wslconfig (memory=10GB, processors=4)
+- Docker + WSL2, tối ưu .wslconfig (memory=6GB, processors=6)
 - Tạo GitHub repo cinema-platform, skeleton .NET 10 Clean Architecture
 - Tạo Obsidian/Notion: tracker tiến độ + nhật ký kỹ thuật
 - Đọc 1 lần ByteByteGo System Design primer (free trên GitHub)
@@ -66,7 +66,7 @@ Viết nháp (không công khai) về 2–3 lỗi nặng nhất từng gặp t�
 - [ ] Đã viết nháp 3 câu chuyện STAR
 - [ ] Đã viết Reverse Engineering Case Study (2–3 lỗi cũ)
 - [ ] GitHub repo đã tạo, skeleton .NET 10 đã chạy
-- [ ] Docker + docker-compose chạy được SQL Server + MinIO
+- [ ] Docker + docker-compose chạy được SQL Server + Azurite
 - [ ] Đã đọc xong ByteByteGo primer
 
 ---
@@ -107,7 +107,7 @@ Tổng: ~7 Pomodoro × 1h = 7h + 1h Tiếng Anh = ~8h/ngày
 - Core domain: Booking, Seat, Showtime, Movie
 - Unit Test (Application) + Integration Test (API)
 - Keycloak: auth + phân quyền admin
-- MinIO: upload trailer + presigned URL
+- Azurite / Azure Blob: upload trailer + SAS token (presigned URL)
 - Thi AZ-900 cuối tháng 7
 - Viết ADR đầu tiên: tại sao Clean Architecture + CQRS
 
