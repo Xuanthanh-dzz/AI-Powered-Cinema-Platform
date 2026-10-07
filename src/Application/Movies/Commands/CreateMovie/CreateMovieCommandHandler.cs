@@ -1,8 +1,8 @@
-using cinemaPlatform.domain.Entities;
-using cinemaPlatform.domain.Interfaces;
+using CinemaPlatform.Domain.Entities;
+using CinemaPlatform.Domain.Interfaces;
 using MediatR;
 
-namespace cinemaPlatform.Application.Movies.Commands.CreateMovie;
+namespace CinemaPlatform.Application.Movies.Commands.CreateMovie;
 
 public class CreateMovieCommandHandler : IRequestHandler<CreateMovieCommand, Guid>
 {
@@ -28,6 +28,11 @@ public class CreateMovieCommandHandler : IRequestHandler<CreateMovieCommand, Gui
         };
 
         await _repository.AddAsync(movie, cancellationToken);
+
+        // AddAsync chỉ đánh dấu entity vào DbContext, chưa ghi xuống DB.
+        // Thiếu SaveChangesAsync thì request trả về Id nhưng DB không có gì.
+        await _repository.SaveChangesAsync(cancellationToken);
+
         return movie.Id;
     }
 }

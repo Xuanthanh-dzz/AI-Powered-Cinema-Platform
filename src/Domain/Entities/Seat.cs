@@ -1,4 +1,4 @@
-namespace cinemaPlatform.domain.Entities;
+namespace CinemaPlatform.Domain.Entities;
 
 public class Seat
 {

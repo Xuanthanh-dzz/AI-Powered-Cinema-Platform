@@ -1,6 +1,4 @@
-using cinemaPlatform.domain.Entities;
-
-namespace cinemaPlatform.domain.Interfaces;
+namespace CinemaPlatform.Domain.Interfaces;
 
 public interface IRepository<T> where T : class
 {

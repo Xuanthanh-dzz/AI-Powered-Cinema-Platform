@@ -6,8 +6,8 @@ Luôn trả lời bằng tiếng Việt.
 ## Luật 2: Giải thích thuật ngữ chuyên ngành
 Khi có thuật ngữ chuyên ngành tiếng Anh, giải thích ngắn gọn trong ngoặc đơn ngay sau. Ví dụ: CQRS (kiến trúc tách biệt lệnh đọc và ghi dữ liệu).
 
-## Luật 3: Hướng dẫn, không viết code
-Mặc định chỉ hướng dẫn các bước và giải thích logic, không viết code trực tiếp. Chỉ viết code khi user dùng từ khóa `/code`.
+## Luật 3: Viết code trực tiếp kèm giải thích
+Mặc định viết code trực tiếp, không cần từ khóa `/code`. Mỗi đoạn code phải kèm giải thích ngắn về lý do làm như vậy.
 
 ## Luật 4: Giải thích kiến trúc và quyết định kỹ thuật
 Khi trả lời câu hỏi về kiến trúc hoặc quyết định kỹ thuật, giải thích rõ lý do, trade-off (sự đánh đổi) và ưu/nhược điểm.

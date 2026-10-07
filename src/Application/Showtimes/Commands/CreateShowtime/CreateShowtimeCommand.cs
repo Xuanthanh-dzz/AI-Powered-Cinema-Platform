@@ -1,8 +1,8 @@
 using MediatR;
 
-namespace cinemaPlatform.Application.Showtimes.Commands.createShowtime;
+namespace CinemaPlatform.Application.Showtimes.Commands.CreateShowtime;
 
-public record createShowtime (
+public record CreateShowtimeCommand(
     Guid MovieId,
     Guid AuditoriumId,
     DateTime StartTime,

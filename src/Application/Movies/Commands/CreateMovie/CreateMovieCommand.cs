@@ -1,6 +1,6 @@
 using MediatR;
 
-namespace cinemaPlatform.Application.Movies.Commands.CreateMovie;
+namespace CinemaPlatform.Application.Movies.Commands.CreateMovie;
 
 public record CreateMovieCommand(
     string Title,
